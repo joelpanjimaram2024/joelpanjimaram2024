@@ -1,18 +1,18 @@
 # 👋 Hey, I'm Joel P. Mathew
 
 🎓 B.Tech AI & ML @ VIT Chennai  
-💡 Interested in AI/ML, Embedded Systems, and Full-Stack Development  
+💡 Interested in AI/ML, and Full-Stack Development  
 🚀 I enjoy building projects and learning by implementing real-world ideas  
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&lines=AI+%26+ML+Student;Learning+by+Building;Full+Stack+Developer;Exploring+Embedded+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&lines=AI+%26+ML+Student;Learning+by+Building;Full+Stack+Developer)
 
 ---
 
 ## 🧠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,cpp,flask,django,tensorflow,sklearn,arduino,raspberrypi,git,github,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,cpp,flask,django,tensorflow,sklearn,arduino,git,github,html,css,js" />
 
 ---
 
