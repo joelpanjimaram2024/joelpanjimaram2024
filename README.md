@@ -47,7 +47,7 @@ A project to explore real-time file scanning using ClamAV.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoelPMathew&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelpanjimaram2024&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelPMathew&layout=compact)
 
